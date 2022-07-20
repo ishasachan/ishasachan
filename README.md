@@ -1,4 +1,4 @@
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/Abhi6722" target="_blank"> Isha Sachan </a></h1>
+<h1 align="center" >Hi, I'm <a href="www.linkedin.com/in/isha-sachan-244770214" target="_blank"> Isha Sachan </a></h1>
 <img width="30%" align="right"   src="https://github.com/Abhi6722/Abhi6722/blob/main/workbench.svg" >
 
 A bit about Myself, I am <b>Isha Sachan</b> pursuing a <b>Electrical and Electronics Degree</b> from Birla Institue of Technology Mesra. As of now, I am focused on <b>web development.  </b> but still, wish to explore many fields.⚡
