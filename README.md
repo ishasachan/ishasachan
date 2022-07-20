@@ -35,13 +35,12 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://ishasachan.github.io/portfolio/)     | IPortfolio website build using HTML5, CSS3, JavaScript. 
-| [Covid Resources](https://github.com/Abhi6722/covid_resources)   | This is a Covid Resources app which goals to provide all essentail resources and services regarding COVID-19 at a single place    | issued.© 2021 Abhinav Kumar 
-| [Machine Learning Prediction Model](https://github.com/Abhi6722/Predictor)     | The main function of the app is to recommend movies based on our interest. This application provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast, reviews, recommended movies, etc. |
-| [Toodle](https://github.com/Abhi6722/toodle)     | A Google clone built using NextJs and Tailwind CSS.
-| [Toodle Meet](https://github.com/Abhi6722/Toodle-Meet)     | Toodle Meet is a Secure, Simple and Scalable Video Conference solution that you can use as a standalone app or embed in your web application.
-| [Netflix-Clone](https://github.com/Abhi6722/Netflix_app)     | A simple ReactJS Netflix homepage clone running on Astra DB that leverages a GraphQL API with paging and infinite scrolling.
-| [IEEE](https://github.com/Abhi6722/IEEE)     | IEEE Student Branch BIT Deogarh Website using HTML/CSS/JS
+| [My Portfolio Website](https://ishasachan.github.io/portfolio/)     | Portfolio website build using HTML5, CSS3, JavaScript. 
+| [Weather API]([ishasachan.github.io/weather-api-/])   | This is a Weather API app which goals to provide all weather information of current places   | issued.© 2022 Isha Sachan
+| [Text Editor](https://ishasachan.github.io/texteditor/)     | The main function of the app is change uppercase to lowercase , delete the notes , store the note etc. |
+| [Language Translator](https://github.com/ishasachan/Language-Translator)     | A language Trasnlator App built using Android Studio and Kotlin.
+| [Analog Digital Clock]( https://ishasachan.github.io/analogdigitalclock/)     | Digital clock built using HTML , CSS , JAVASCRIPT
+
 <h1 align="center">Communication - the human connection - is the key to personal and success !</h1>
 
 <h1 align="center">Let's Get Connected</h1>
@@ -49,6 +48,8 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 Recently I have started A blog . I am active on LinkedIN as well. You can reach out to me .</p>
 
 <div align="center">
+
+
 
 <a  href="www.linkedin.com/in/isha-sachan-244770214" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/abhi6722" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
