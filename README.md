@@ -4,9 +4,9 @@
 
 A bit about Myself, I am <b>Isha Sachan</b> pursuing a <b>Electrical and Electronics Degree</b> from Birla Institue of Technology Mesra. As of now, I am focused on <b>web development.  </b> but still, wish to explore many fields.⚡
 
-<h3 align="center">A Passionate Web Developer </h3>
+<h3 align="left">A Passionate Web Developer </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=ishasachan&label=Profile%20views&color=6805D3&style=flat" alt="Isha Sachan" /> </p></h3>
+<h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=ishasachan&label=Profile%20views&color=6805D3&style=flat" alt="Isha Sachan" /> </p></h3>
    <div align="center">
 
    <h1>Technical Skills 🛠</h1>
