@@ -1,4 +1,4 @@
-<img alt="Coding" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+
 <h1 align="center" >Hi, I'm <a href="www.linkedin.com/in/isha-sachan-244770214" target="_blank"> Isha Sachan </a></h1>
 <img width="30%" align="right"   src="https://github.com/Abhi6722/Abhi6722/blob/main/workbench.svg" >
 
